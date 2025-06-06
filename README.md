@@ -1,11 +1,11 @@
 # identify remove suspicious browser extentions
 # How to identify
-1. Open Extensions Page
+1. Open Extensions Page </br>
 Chrome: chrome://extensions/
 Firefox: about:addons → Extensions
 Edge: edge://extensions/
 
-2. Check for Red Flags
+2. Check for Red Flags </br>
 ❌ Unknown or misspelled names
 ❌ Recently installed without your action
 ❌ Broad permissions: “Read/change all data”
@@ -13,14 +13,14 @@ Edge: edge://extensions/
 ❌ Bad reviews or removed from store
 ❌ Redirects, pop-ups, search engine changes
 
-3. Disable & Observe
+3. Disable & Observe </br>
 Disable one at a time → Check if browser improves
 
-4. Scan & Investigate
+4. Scan & Investigate </br>
 Use: crxcavator.io or Google:
 "Extension name + malware"
 
-5. Remove If Suspicious
+5. Remove If Suspicious </br>
 Click Remove or Trash icon
 
 # How a Malicious Extension Can Harm User
